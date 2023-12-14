@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSprojectOnAzure", "RSprojectOnAzure\RSprojectOnAzure.csproj", "{3302A145-17B0-4815-85BF-BA06D3259E37}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolProjectOnAzure", "RSprojectOnAzure\SchoolProjectOnAzure.csproj", "{3302A145-17B0-4815-85BF-BA06D3259E37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
